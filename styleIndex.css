@@ -1,0 +1,40 @@
+#About-Me {
+font-size: 35px;
+font-weight: bolder;
+background-color: whitesmoke;
+
+margin-top: 1%;
+margin-bottom: 1%;
+
+border-top: 3px solid lightblue; 
+border-bottom: 3px solid lightblue; 
+border-radius: 7px;
+
+}
+
+.Lorem {
+
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-color: whitesmoke;
+
+}
+
+
+#Pyranees {
+    background-color: whitesmoke;
+    font-size: small;
+    font-weight: normal;
+
+    border-radius: 30%;
+    border-top: 2% solid whitesmoke;
+    border-bottom: 2% solid whitesmoke;
+
+    padding-top: 15%;
+    padding-left: 3%;
+    padding-bottom: 25%;
+    
+    
+}
+

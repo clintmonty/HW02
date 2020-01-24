@@ -1,0 +1,22 @@
+#Portfolio {
+    font-size: 35px;
+    font-weight: bolder;
+    background-color: whitesmoke;
+
+    margin-top: 1%;
+    margin-bottom: 1%;
+
+    border-top: 3px solid lightblue; 
+    border-bottom: 3px solid lightblue; 
+    border-radius: 7px;
+
+}
+
+.text-center{
+
+    border-radius: 1%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    
+    
+}
